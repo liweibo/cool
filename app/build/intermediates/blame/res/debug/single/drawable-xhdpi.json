@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_loading.png",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_loading.png",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_eletric_fan.png",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_eletric_fan.png"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_leaf.png",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_leaf.png"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_leaf.png",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_leaf.png"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_eletric_fan.png",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_eletric_fan.png"
+    }
+]

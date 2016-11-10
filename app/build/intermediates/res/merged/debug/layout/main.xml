@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/a41">
+
+
+
+    <FrameLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+       	<pl.droidsonroids.gif.GifImageView
+	        android:id="@+id/weather_background"
+	        android:scaleType="fitXY"
+	        android:adjustViewBounds="true"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"/>
+
+		<LinearLayout
+			android:orientation="vertical"
+			android:id="@+id/ll_main_stub"
+			android:visibility="gone"
+			android:layout_width="match_parent"
+			android:layout_height="1dp">
+
+		</LinearLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+		    <!--<android.support.v4.view.ViewPager-->
+		      <!--android:id="@+id/main_ViewPager"-->
+		      <!--android:layout_width="match_parent"-->
+		      <!--android:layout_height="0dp"-->
+		      <!--android:layout_weight="1" -->
+		       <!--/>    		    -->
+
+			<com.viewpagerswitch.JazzyViewPager
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+
+				android:id="@+id/jazzy_pager"
+				>
+
+			</com.viewpagerswitch.JazzyViewPager>
+		    <!-- 指示小圆点 -->
+		    <LinearLayout 
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+				android:layout_alignParentBottom="true"
+		        android:layout_marginBottom="40dp"
+		        android:gravity="center"
+		        android:orientation="horizontal">
+		        <ImageView 
+		            android:id="@+id/dot1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_marginRight="@dimen/dot_margin"
+		            android:src="@drawable/unselected_dot"/>
+		        <ImageView 
+		            android:id="@+id/dot2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_marginRight="@dimen/dot_margin"
+		            android:src="@drawable/unselected_dot"/>
+		        <ImageView 
+		            android:id="@+id/dot3"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_marginRight="@dimen/dot_margin"
+		            android:src="@drawable/unselected_dot"/>
+		        <ImageView 
+		            android:id="@+id/dot4"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_marginRight="@dimen/dot_margin"
+		            android:src="@drawable/unselected_dot"/>
+		    </LinearLayout>  
+		    <!-- 刷新和更多 -->
+		    <LinearLayout 
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:gravity="center"
+		        android:orientation="horizontal"
+				android:layout_alignParentBottom="true"
+		        android:layout_marginBottom="@dimen/activity_vertical_margin">
+				<Button
+			        android:id="@+id/update_weather"
+			       	android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_marginRight="110dp"
+			        style="?android:attr/buttonStyleSmall"
+			        android:text="刷新"
+					android:textSize="10sp"
+			        android:background="@drawable/selector_circle_button" />
+			
+			    <Button
+			        android:id="@+id/more"
+			        style="?android:attr/buttonStyleSmall"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="设置"
+					android:textSize="10sp"
+
+					android:background="@drawable/selector_circle_button"/>
+		    </LinearLayout>            
+        </RelativeLayout>
+      
+    </FrameLayout> 
+</LinearLayout>

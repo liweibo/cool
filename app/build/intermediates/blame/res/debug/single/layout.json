@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_defaultcity.xml",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\layout\\activity_defaultcity.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_defaultcity.xml",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\layout\\activity_defaultcity.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text.xml",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\layout\\activity_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text.xml",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\layout\\activity_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_weather.xml",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_weather.xml",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\l\\Desktop\\xxxxx\\Weather-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\l\\Desktop\\Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\l\\Desktop\\Weather-master\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    }
+]

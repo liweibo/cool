@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\l\Desktop\Weather-master\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\l\Desktop\Weather-master\app\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0_46ebc8019d9ac51e1bd0e56ba003403fdfe06a26.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64_20140101\adt-bundle-windows-x86_64_20140101\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\l\Desktop\Weather-master\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_f542b3db49c6adce2566b60850f7c3af4e5383b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\l\Desktop\Weather-master\app\libs\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ab78ed461deab5206c4cac6bbcf60e6d963cfd85">
+        <dex dex="C:\Users\l\Desktop\Weather-master\app\build\intermediates\pre-dexed\release\classes_c415242fb54d03c095302643c7b7a4f4a9b1d2b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\l\Desktop\Weather-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\l\Desktop\Weather-master\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_a271119218237a581addf87dd0d3b006d736d549.jar" />
+    </item>
+    <item
+        jar="C:\Users\l\Desktop\Weather-master\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\l\Desktop\Weather-master\app\build\intermediates\pre-dexed\release\gson-2.3.1_f2487dc1866f1962b5f134a1df9b6cac0f926a9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\l\Desktop\Weather-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\l\Desktop\Weather-master\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_687b7a7efd892b76cc59775ca6b369a9bc8334da.jar" />
+    </item>
+
+</items>
