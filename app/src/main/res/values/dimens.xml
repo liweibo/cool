@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 导航栏高度 -->
+    <dimen name="navigation_bar_height">32dp</dimen>
+    <!-- 小圆点高度 -->
+    <dimen name="dot_margin">15dp</dimen>
+
+</resources>
